@@ -34,6 +34,12 @@ To use and test the movie recommendation systems, follow these steps:
     Start working on the project, exploring and running the recommendation systems using the provided datasets.
     Customize and fine-tune the systems according to your specific requirements and explore additional dataset options to improve the recommendation accuracy.
 
+<h2 align="center">Dataset Link</h2>
+
+You can access the required datasets from the following Google Drive link:
+
+[Movie Recommendation System Datasets](https://drive.google.com/drive/folders/1jvNpItRH2_vBoehO6GC2LwKHZVZhodkz)
+
 <h2 align="center">Acknowledgments</h2>
 
 We would like to acknowledge the contributions of various libraries and datasets used in this project. Their availability and accessibility significantly facilitated the development and evaluation of our movie recommendation systems.
