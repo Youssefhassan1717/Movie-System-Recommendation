@@ -46,5 +46,5 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 Note: For more detailed explanations and demonstrations of the project, you can refer to the following videos:
 
-    Part 1: Movie Recommendation Systems
-    Part 2: Movie Recommendation Systems
+    Part 1: https://www.youtube.com/watch?v=P5SMLXgjeAA
+    Part 2: https://www.youtube.com/watch?v=F7Fvjht9Jiw
